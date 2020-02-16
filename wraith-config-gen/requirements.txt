@@ -1,0 +1,4 @@
+selenium
+webdrivermanager
+ruamel.yaml
+python-slugify
